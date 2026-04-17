@@ -2,6 +2,8 @@
 
 #include <vector>
 
+bool smallTest();
+
 class SegmentTree {
 public:
 	SegmentTree();
